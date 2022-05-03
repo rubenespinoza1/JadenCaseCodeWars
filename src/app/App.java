@@ -1,6 +1,6 @@
 package app;
 
-import jaden_case.JadenCase;
+import seven_kyu.jaden_case.JadenCase;
 
 public class App {
 

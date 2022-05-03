@@ -1,4 +1,4 @@
-package jaden_case;
+package seven_kyu.jaden_case;
 
 public class JadenCase {
 
